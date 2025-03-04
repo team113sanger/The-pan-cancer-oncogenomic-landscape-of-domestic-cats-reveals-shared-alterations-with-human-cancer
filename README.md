@@ -28,3 +28,7 @@ The sub-analyses of the project, authors who performed them and repositories the
 - Bailey Francis (<bf14@sanger.ac.uk>)
 - Louise Van Der Weyen (<lvdw@sanger.ac.uk>)
 - David J Adams (<da1@sanger.ac.uk>)
+
+
+## Acknowledgements
+This work was supported by grants from the Every Cat Health Foundation (L.v.d.W.), CVS Group plc (L.v.d.W.) and Wellcome Trust (108413/A/15/D; D.J.A.). The authors would like to thank all the pets and their owners who participated in this research by allowing their diagnostic tissue samples to be used. The authors would also like to thank the veterinarians who collected the samples, the histology staff who processed the tissues, and the pathologists who made the diagnoses.
