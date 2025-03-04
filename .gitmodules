@@ -1,0 +1,6 @@
+[submodule "project_fur_felis_catus_driver_analysis"]
+	path = project_fur_felis_catus_driver_analysis
+	url = git@github.com:team113sanger/project_fur_felis_catus_driver_analysis.git
+[submodule "project_fur_felis_catus_cnv_analysis"]
+	path = project_fur_felis_catus_cnv_analysis
+	url = git@github.com:team113sanger/project_fur_felis_catus_cnv_analysis.git
