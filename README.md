@@ -26,8 +26,6 @@ The sub-analyses of the project, authors who performed them, and repositories th
 
 ## Tools 
 Several of these analyses were performed using tools developed in the Adams lab and are available on GitHub. These are: 
-- FUR phaser []
-
 - FUR CNVKit [Github](https://github.com/team113sanger/project_fur_felis_catus_cnv_analysis)
 - Justaphase [![DOI](https://zenodo.org/badge/945988734.svg)](https://doi.org/10.5281/zenodo.15221722)
 - fur_phaser_py [![DOI](https://zenodo.org/badge/966640631.svg)](https://doi.org/10.5281/zenodo.15221798)
