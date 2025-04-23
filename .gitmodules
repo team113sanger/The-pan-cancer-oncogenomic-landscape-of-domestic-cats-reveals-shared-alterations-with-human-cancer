@@ -7,3 +7,6 @@
 [submodule "project_fur_felis_catus_pathogen_identification"]
 	path = project_fur_felis_catus_pathogen_identification
 	url = git@github.com:team113sanger/project_fur_felis_catus_pathogen_identification.git
+[submodule "project_fur_felis_catus_hotspot_analysis"]
+	path = project_fur_felis_catus_hotspot_analysis
+	url = git@github.com:team113sanger/project_fur_felis_catus_hotspot_analysis.git

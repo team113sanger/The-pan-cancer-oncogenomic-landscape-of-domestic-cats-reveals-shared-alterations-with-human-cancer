@@ -15,20 +15,20 @@ unzip bundle.zip
 
 The sub-analyses of the project, authors who performed them, and repositories they correspond to are:  
 - Somatic variant analyses (bf14@sanger.ac.uk)
-- FUR Mutational Hotspot analyser (bf14@sanger.ac.uk)
+- FUR Mutational Hotspot analyser [![DOI](https://zenodo.org/badge/945953867.svg)](https://doi.org/10.5281/zenodo.15221853)
+ (bf14@sanger.ac.uk)
 - Mutational Signature analysis (sc46@sanger.ac.uk)
-- Copy number Variant analysis (bf14@sanger.ac.uk)
 - Pathogen analysis [![DOI](https://zenodo.org/badge/932059905.svg)](https://doi.org/10.5281/zenodo.15228426) (jb63@sanger.ac.uk)
 - Driver Gene analysis [![DOI](https://zenodo.org/badge/932059905.svg)](https://doi.org/10.5281/zenodo.15228426)
  (jb63@sanger.ac.uk)
 - Germline variant analysis (jb63@sanger.ac.uk, mdc1@sanger.ac.uk, kw10@sanger.ac.uk)
-- Publication Summary Plots  (bf14@sanger.ac.uk)
+- Publication Summary Plots (bf14@sanger.ac.uk)
 
 ## Tools 
 Several of these analyses were performed using tools developed in the Adams lab and are available on GitHub. These are: 
 - FUR phaser []
 
-- [FUR CNVKit](https://github.com/team113sanger/project_fur_felis_catus_cnv_analysis)
+- FUR CNVKit [Github](https://github.com/team113sanger/project_fur_felis_catus_cnv_analysis)
 - Justaphase [![DOI](https://zenodo.org/badge/945988734.svg)](https://doi.org/10.5281/zenodo.15221722)
 - fur_phaser_py [![DOI](https://zenodo.org/badge/966640631.svg)](https://doi.org/10.5281/zenodo.15221798)
 - dermatlas_analysis_maf [![DOI](https://zenodo.org/badge/935644892.svg)](https://doi.org/10.5281/zenodo.15229904)
@@ -38,6 +38,7 @@ Several of these analyses were performed using tools developed in the Adams lab 
 ## Contact 
 
 - Bailey Francis (<bf14@sanger.ac.uk>)
+- Jamie Billington (<jb63@sanger.ac.uk>)
 - Louise Van Der Weyen (<lvdw@sanger.ac.uk>)
 - David J Adams (<da1@sanger.ac.uk>)
 
