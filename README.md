@@ -14,22 +14,29 @@ unzip bundle.zip
 ## Project Overview
 
 The sub-analyses of the project, authors who performed them, and repositories they correspond to are:  
-- FUR Mutational Hotspot analyser [![DOI](https://zenodo.org/badge/945953867.svg)](https://doi.org/10.5281/zenodo.15221853)
- (bf14@sanger.ac.uk)
-- Mutational Signature analysis [![DOI](https://zenodo.org/badge/971292322.svg)](https://doi.org/10.5281/zenodo.15304185)
- (sc46@sanger.ac.uk)
-- Pathogen analysis [![DOI](https://zenodo.org/badge/932059905.svg)](https://doi.org/10.5281/zenodo.15228426) (jb63@sanger.ac.uk)
-- Driver Gene analysis [![DOI](https://zenodo.org/badge/932059905.svg)](https://doi.org/10.5281/zenodo.15228426)
+- TODO CNV
+- Driver Gene analysis [Github](https://github.com/team113sanger/project_fur_felis_catus_driver_analysis)[![DOI](https://zenodo.org/badge/932059905.svg)](https://doi.org/10.5281/zenodo.15228426)
  (jb63@sanger.ac.uk)
-- Publication Summary Plots [![DOI](https://zenodo.org/badge/971292322.svg)](https://doi.org/10.5281/zenodo.15304185) (bf14@sanger.ac.uk, jb63@sanger.ac.uk, mdc1@sanger.ac.uk, kw10@sanger.ac.uk, sc46@sanger.ac.uk, iv3@sanger.ac.uk)
+- FUR Mutational Hotspot analyser [Github](https://github.com/team113sanger/project_fur_felis_catus_hotspot_analysis)[![DOI](https://zenodo.org/badge/945953867.svg)](https://doi.org/10.5281/zenodo.15221853)
+ (bf14@sanger.ac.uk)
+- Pathogen analysis [Github](https://github.com/team113sanger/project_fur_felis_catus_pathogen_identification)[![DOI](https://zenodo.org/badge/932059905.svg)](https://doi.org/10.5281/zenodo.15228426) (jb63@sanger.ac.uk)
+- Publication Summary Plots [Github](https://github.com/team113sanger/project_fur_felis_catus_publication_plots)[![DOI](https://zenodo.org/badge/971292322.svg)](https://doi.org/10.5281/zenodo.15304185)
+  - Germline analysis (mdc1@sanger.ac.uk, kw10@sanger.ac.uk, jb63@sanger.ac.uk)
+  - Copy number alteration analysis (bf14@sanger.ac.uk)
+  - Human comparative analysis (bf14@sanger.ac.uk, iv3@sanger.ac.uk)
+  - Mutational signature analysis (sc46@sanger.ac.uk)
+  - Penetrance plots (bf14@sanger.ac.uk)
+  - Tumour mutation burdon plots (bf14@sanger.ac.uk)
+  - Oncoprint plots (bf14@sanger.ac.uk)
+
 
 ## Tools 
 Several of these analyses were performed using versioned tools developed in the Adams lab that are available on GitHub. These are: 
-- FUR CNVKit [Github](https://github.com/team113sanger/project_fur_felis_catus_cnv_analysis)
-- Justaphase [![DOI](https://zenodo.org/badge/945988734.svg)](https://doi.org/10.5281/zenodo.15221722)
-- fur_phaser_py [![DOI](https://zenodo.org/badge/966640631.svg)](https://doi.org/10.5281/zenodo.15221798)
-- dermatlas_analysis_maf [![DOI](https://zenodo.org/badge/935644892.svg)](https://doi.org/10.5281/zenodo.15229904)
-- dermatlas_analysis_qc [![DOI](https://zenodo.org/badge/936108624.svg)](https://doi.org/10.5281/zenodo.15229877)
+- FUR CNVKit [Github](https://github.com/team113sanger/project_fur_felis_catus_cnv_analysis)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15304186.svg)](https://doi.org/10.5281/zenodo.15304186)
+- Justaphase [Github](https://github.com/team113sanger/justaphase)[![DOI](https://zenodo.org/badge/945988734.svg)](https://doi.org/10.5281/zenodo.15221722)
+- fur_phaser_py [Github](https://github.com/team113sanger/project_fur_felis_catus_fur_phaser_py)[![DOI](https://zenodo.org/badge/966640631.svg)](https://doi.org/10.5281/zenodo.15221798)
+- dermatlas_analysis_maf [Github](https://github.com/team113sanger/dermatlas_analysis_maf)[![DOI](https://zenodo.org/badge/935644892.svg)](https://doi.org/10.5281/zenodo.15229904)
+- dermatlas_analysis_qc [Github](https://github.com/team113sanger/dermatlas_analysis_qc)[![DOI](https://zenodo.org/badge/936108624.svg)](https://doi.org/10.5281/zenodo.15229877)
 
 
 ## Contact 
@@ -37,6 +44,10 @@ Several of these analyses were performed using versioned tools developed in the 
 - Bailey Francis (<bf14@sanger.ac.uk>)
 - Jamie Billington (<jb63@sanger.ac.uk>)
 - Louise Van Der Weyen (<lvdw@sanger.ac.uk>)
+- Martin Del Castillo Velasco-Herrera (<mdc1@sanger.ac.uk>)
+- Kim Wong (<kw10@sanger.ac.uk>)
+- Ian Vermes (<iv3@sanger.ac.uk>)
+- Saamin Cheema (<sc46@sanger.ac.uk>)
 - David J Adams (<da1@sanger.ac.uk>)
 
 
