@@ -14,7 +14,7 @@ unzip bundle.zip
 ## Project Overview
 
 The sub-analyses of the project, authors who performed them, and repositories they correspond to are:  
-- CNV analysis with FUR CNVKit [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/team113sanger/project_fur_felis_catus_cnv_analysis)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15304186.svg)](https://doi.org/10.5281/zenodo.15304186) (bf14@sanger.ac.uk)
+- CNV analysis with FUR CNVKit [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/team113sanger/project_fur_felis_catus_cnv_analysis)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15304186.svg)](https://doi.org/10.5281/zenodo.15304186) (bf14@sanger.ac.uk, iv3@sanger.ac.uk)
 - Driver Gene analysis [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/team113sanger/project_fur_felis_catus_driver_analysis)[![DOI](https://zenodo.org/badge/932059905.svg)](https://doi.org/10.5281/zenodo.15228426)
  (jb63@sanger.ac.uk)
 - FUR Mutational Hotspot analyser [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/team113sanger/project_fur_felis_catus_hotspot_analysis)[![DOI](https://zenodo.org/badge/945953867.svg)](https://doi.org/10.5281/zenodo.15221853)
