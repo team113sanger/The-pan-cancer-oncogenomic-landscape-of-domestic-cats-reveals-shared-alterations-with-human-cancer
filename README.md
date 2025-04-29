@@ -1,13 +1,13 @@
-# The pan-cancer oncogenomic landscape of domestic cats reveals shared alterations with human cancer
+# The domestic cat oncogenome
 
 This repository serves as the central landing page for multiple sub-analyses related to the manuscript:
 
-> **_The pan-cancer oncogenomic landscape of domestic cats reveals shared alterations with human cancer_**
+> **_Francis, B., Ludwig, L. et al 2025 - The domestic cat oncogenome_**
 
-The analyses were conducted by several authors in the Adams group at the Wellcome Sanger Institute. Each sub-analysis repository linked below contains its own **README.md** with details of the methods, code, and data required for reproducing the results. Large files and figures from the paper can be accessed at the corresponding [FigShare for the project](https://figshare.com/projects/)
+The analyses were conducted by several authors in the Adams group at the Wellcome Sanger Institute. Each sub-analysis repository linked below contains its own **README.md** with details of the methods, code, and data required for reproducing the results. Large files and figures from the paper can be accessed at the corresponding [FigShare for the project](https://figshare.com/projects/239831) 
 Users can download any datasets from the publication Figshare with: 
 ```
-curl -k -o bundle.zip https://figshare.com/ndownloader/articles/<TBC>/versions/1
+curl -k -o bundle.zip https://figshare.com/ndownloader/articles/239831/versions/1
 unzip bundle.zip
 ```
 
@@ -25,7 +25,7 @@ The sub-analyses of the project, authors who performed them, and repositories th
 - Publication Summary Plots (bf14@sanger.ac.uk)
 
 ## Tools 
-Several of these analyses were performed using tools developed in the Adams lab and are available on GitHub. These are: 
+Several of these analyses were performed using versioned tools developed in the Adams lab that are available on GitHub. These are: 
 - FUR CNVKit [Github](https://github.com/team113sanger/project_fur_felis_catus_cnv_analysis)
 - Justaphase [![DOI](https://zenodo.org/badge/945988734.svg)](https://doi.org/10.5281/zenodo.15221722)
 - fur_phaser_py [![DOI](https://zenodo.org/badge/966640631.svg)](https://doi.org/10.5281/zenodo.15221798)
