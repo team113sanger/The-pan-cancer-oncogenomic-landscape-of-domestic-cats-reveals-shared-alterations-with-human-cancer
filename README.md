@@ -4,7 +4,7 @@ This repository serves as the central landing page for multiple sub-analyses rel
 
 > **_Francis, B., Ludwig, L. et al 2025 - The domestic cat oncogenome_**
 
-The analyses were conducted by several authors in the Adams group at the Wellcome Sanger Institute. Each sub-analysis repository linked below contains its own **README.md** with details of the methods, code, and data required for reproducing the results. Large files and figures from the paper can be accessed at the corresponding [FigShare for the project](https://figshare.com/projects/239831) 
+The analyses were conducted by several authors in the Adams group at the Wellcome Sanger Institute. Each sub-analysis repository linked below contains its own **README.md** with details of the methods, code, and data required for reproducing the results. Large files and figures from the paper can be accessed at the corresponding [FigShare for the project]([https://figshare.com/projects/The_domestic_cat_oncogenome/239831].
 Users can download any datasets from the publication Figshare with: 
 ```
 curl -k -o bundle.zip https://figshare.com/ndownloader/articles/239831/versions/1
@@ -14,15 +14,14 @@ unzip bundle.zip
 ## Project Overview
 
 The sub-analyses of the project, authors who performed them, and repositories they correspond to are:  
-- Somatic variant analyses (bf14@sanger.ac.uk)
 - FUR Mutational Hotspot analyser [![DOI](https://zenodo.org/badge/945953867.svg)](https://doi.org/10.5281/zenodo.15221853)
  (bf14@sanger.ac.uk)
-- Mutational Signature analysis (sc46@sanger.ac.uk)
+- Mutational Signature analysis [![DOI](https://zenodo.org/badge/971292322.svg)](https://doi.org/10.5281/zenodo.15304185)
+ (sc46@sanger.ac.uk)
 - Pathogen analysis [![DOI](https://zenodo.org/badge/932059905.svg)](https://doi.org/10.5281/zenodo.15228426) (jb63@sanger.ac.uk)
 - Driver Gene analysis [![DOI](https://zenodo.org/badge/932059905.svg)](https://doi.org/10.5281/zenodo.15228426)
  (jb63@sanger.ac.uk)
-- Germline variant analysis (jb63@sanger.ac.uk, mdc1@sanger.ac.uk, kw10@sanger.ac.uk)
-- Publication Summary Plots (bf14@sanger.ac.uk)
+- Publication Summary Plots [![DOI](https://zenodo.org/badge/971292322.svg)](https://doi.org/10.5281/zenodo.15304185) (bf14@sanger.ac.uk, jb63@sanger.ac.uk, mdc1@sanger.ac.uk, kw10@sanger.ac.uk, sc46@sanger.ac.uk, iv3@sanger.ac.uk)
 
 ## Tools 
 Several of these analyses were performed using versioned tools developed in the Adams lab that are available on GitHub. These are: 
