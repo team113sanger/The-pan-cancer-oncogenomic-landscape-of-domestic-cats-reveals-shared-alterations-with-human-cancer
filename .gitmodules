@@ -10,3 +10,6 @@
 [submodule "project_fur_felis_catus_hotspot_analysis"]
 	path = project_fur_felis_catus_hotspot_analysis
 	url = git@github.com:team113sanger/project_fur_felis_catus_hotspot_analysis.git
+[submodule "project_fur_felis_catus_publication_plots"]
+	path = project_fur_felis_catus_publication_plots
+	url = git@github.com:team113sanger/project_fur_felis_catus_publication_plots.git
