@@ -1,10 +1,11 @@
 # The domestic cat oncogenome
+[![DOI](https://zenodo.org/badge/942780188.svg)](https://doi.org/10.5281/zenodo.17377007)
 
 This repository serves as the central landing page for multiple sub-analyses related to the manuscript:
 
 > **_Francis, B., Ludwig, L. et al 2025 - The domestic cat oncogenome_**
 
-The analyses were conducted by several authors in the Adams group at the Wellcome Sanger Institute. Each sub-analysis repository linked below contains its own **README.md** with details of the methods, code, and data required for reproducing the results. Large files and figures from the paper can be accessed at the corresponding [FigShare for the project]([https://figshare.com/projects/The_domestic_cat_oncogenome/239831].
+The analyses were conducted by several authors in the Adams group at the Wellcome Sanger Institute. Each sub-analysis repository linked below contains its own **README.md** with details of the methods, code, and data required for reproducing the results. Large files and figures from the paper can be accessed at the corresponding [FigShare for the project](https://figshare.com/projects/The_domestic_cat_oncogenome/239831).
 Users can download any datasets from the publication Figshare with: 
 ```
 curl -k -o bundle.zip https://figshare.com/ndownloader/articles/239831/versions/1
@@ -20,7 +21,7 @@ The sub-analyses of the project, authors who performed them, and repositories th
 - FUR Mutational Hotspot analyser [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/team113sanger/project_fur_felis_catus_hotspot_analysis)[![DOI](https://zenodo.org/badge/945953867.svg)](https://doi.org/10.5281/zenodo.15221853)
  (bf14@sanger.ac.uk)
 - Pathogen analysis [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/team113sanger/project_fur_felis_catus_pathogen_identification)[![DOI](https://zenodo.org/badge/932059905.svg)](https://doi.org/10.5281/zenodo.15228426) (jb63@sanger.ac.uk)
-- Actionability analysis [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/team113sanger/project_fur_felis_catus_actionability_analysis)[![DOI](https://zenodo.org/badge/17376939.svg)](https://doi.org/10.5281/zenodo.17376939) (da1@sanger.ac.uk)
+- Actionability analysis [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/team113sanger/project_fur_felis_catus_actionability_analysis)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17376939.svg)](https://doi.org/10.5281/zenodo.17376939) (da1@sanger.ac.uk)
 - Publication Summary Plots [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/team113sanger/project_fur_felis_catus_publication_plots)[![DOI](https://zenodo.org/badge/971292322.svg)](https://doi.org/10.5281/zenodo.15304185)
   - Germline analysis (mdc1@sanger.ac.uk, kw10@sanger.ac.uk, jb63@sanger.ac.uk)
   - Copy number alteration analysis (bf14@sanger.ac.uk)
